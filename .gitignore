@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+venv/bin
+
+# IDE specific
+.idea
+
+# Python
+**/__pycache__/
+*.py[cod]
+*.pyc
+*.csv
+.env
+.venv/
+
+# OS
+.DS_Store
+
+IMPORTANT
